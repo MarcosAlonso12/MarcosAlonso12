@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="96" viewBox="0 0 680 96" role="img" aria-label="HTML5, CSS3, JavaScript, React, Next.js, Angular, NestJS e Adobe Experience Manager">
+<g transform="translate(0,0)"><rect width="158" height="36" rx="6" fill="#E34F26"/><text x="79" y="23" text-anchor="middle" fill="white" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">HTML5</text></g>
+<g transform="translate(170,0)"><rect width="158" height="36" rx="6" fill="#1572B6"/><text x="79" y="23" text-anchor="middle" fill="white" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">CSS3</text></g>
+<g transform="translate(340,0)"><rect width="158" height="36" rx="6" fill="#C19A00"/><text x="79" y="23" text-anchor="middle" fill="white" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">JavaScript</text></g>
+<g transform="translate(510,0)"><rect width="158" height="36" rx="6" fill="#087EA4"/><text x="79" y="23" text-anchor="middle" fill="white" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">React</text></g>
+<g transform="translate(0,48)"><rect width="158" height="36" rx="6" fill="#30363D"/><text x="79" y="23" text-anchor="middle" fill="white" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">Next.js</text></g>
+<g transform="translate(170,48)"><rect width="158" height="36" rx="6" fill="#C3002F"/><text x="79" y="23" text-anchor="middle" fill="white" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">Angular</text></g>
+<g transform="translate(340,48)"><rect width="158" height="36" rx="6" fill="#E0234E"/><text x="79" y="23" text-anchor="middle" fill="white" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">NestJS</text></g>
+<g transform="translate(510,48)"><rect width="158" height="36" rx="6" fill="#EB1000"/><text x="79" y="23" text-anchor="middle" fill="white" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">AEM</text></g>
+</svg>
