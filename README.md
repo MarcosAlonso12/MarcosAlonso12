@@ -15,16 +15,12 @@ Bem-vindo ao meu espaço no GitHub! Aqui compartilho projetos, estudos e experi�
 
 ## Tecnologias que utilizo ✨
 
-<img alt="HTML5, CSS3, JavaScript, React, Next.js, Angular, NestJS e AEM (Adobe Experience Manager)" src="./assets/technologies.svg" width="680" />
-
-## Meu GitHub em números 📊
+<img alt="HTML5, CSS3, JavaScript, React, Next.js, Angular, NestJS, AEM, GitHub e VS Code" src="./assets/technologies.svg" width="480" />
 
 <p>
-  <img width="48%" alt="Distribuição dos repositórios públicos por linguagem principal" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarcosAlonso12&theme=tokyonight" />
-  <img width="48%" alt="Estatísticas públicas de Marcos Alonso no GitHub" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarcosAlonso12&theme=tokyonight" />
+  <img height="165" alt="Linguagens mais utilizadas nos repositórios públicos de Marcos Alonso" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MarcosAlonso12&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&layout=compact&langs_count=6&card_width=300" />
+  <img height="165" alt="Estatísticas e ranking do GitHub de Marcos Alonso" src="https://github-readme-stats-fast.vercel.app/api?username=MarcosAlonso12&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&icon_color=bf91f3&show_icons=true&custom_title=Marcos%20Alonso%20%E2%80%94%20GitHub%20Stats" />
 </p>
-
-<sub>Cards gerados por um serviço externo a partir dos dados públicos do GitHub.</sub>
 
 ## Explore meus projetos 🔎
 
