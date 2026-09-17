@@ -1,4 +1,4 @@
-<img align="right" alt="Animação de uma pessoa trabalhando no computador" width="280" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" alt="Megumi e Nobara segurando plaquinhas de nota 10" width="280" src="https://media1.tenor.com/m/EMVfLnBoRr0AAAAd/jujutsu-kaisen-megumi-nobara-10-points-jujutsu-kaisen.gif" />
 
 # Olá, eu sou o Marcos Alonso! 👋
 
